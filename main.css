@@ -1,0 +1,43 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+#main{
+	
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100vh;
+	
+}
+
+.ethscape_fullwidth {
+	width: 100%;
+}
+
+.ethscape_page_iframe {
+	display: block;
+	border: 0px;
+	width: 100%;
+	height: 100%;
+	background: #fff;
+}
+
+.ethscape_searchbar {
+	margin: 5px;
+}
+
+#ethscape_hexwindow {
+	display: none;
+}
+
+
+.ethscape_pretext {
+    white-space: pre-wrap;
+}
+
+.ethscape_ethplorer_logo {
+	height: 35px;
+}
